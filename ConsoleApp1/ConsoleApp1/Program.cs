@@ -8,6 +8,8 @@ namespace ConsoleApp1
 {
     class Program
     {
+
+        //First stage;
         static void Main(string[] args)
         {
         }
